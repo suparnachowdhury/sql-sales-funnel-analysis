@@ -104,4 +104,4 @@ The goal of this project is to demonstrate practical SQL skills used in real-wor
 
 ## Author
 **Suparna Chowdhury**  
-SQL Portfolio Project
+SQL Project
