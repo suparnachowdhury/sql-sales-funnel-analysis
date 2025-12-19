@@ -8,14 +8,21 @@ The goal of this project is to demonstrate practical SQL skills used in real-wor
 
 ---
 
+## Purpose of This Project
+- Showcase SQL proficiency for data analyst / data science roles
+- Demonstrate the ability to translate business questions into SQL queries
+- Practice real-world sales analytics use cases
+
+---
+
 ## Database Used
 **Database name:** `sales_funnel`
 
 ### Tables
-- `sales_pipeline` — sales opportunities, deal stages, values, dates, agents, and products  
+- `sales_pipeline` — sales opportunities, deal stages, close values, engage date, close date, agents, and products  
 - `sales_teams` — sales agents, managers, and regional offices  
 - `products` — product-level pricing data  
-- `accounts` — customer accounts, office locations, revenue, and subsidiary relationships  
+- `accounts` — customer accounts, year established, office locations, revenue, and subsidiary relationships  
 
 ---
 
@@ -94,12 +101,6 @@ The goal of this project is to demonstrate practical SQL skills used in real-wor
 
 ---
 
-## Purpose of This Project
-- Showcase SQL proficiency for data analyst / data science roles
-- Demonstrate the ability to translate business questions into SQL queries
-- Practice real-world sales analytics use cases
-
----
 
 ## Author
 **Suparna Chowdhury**  
